@@ -38,7 +38,7 @@ The purpose of the project is to experiment the SlowITe attack on MQTT and valid
 First of all, you have to type the following line on your shell in order to install and manage the other software packages, written in Python, used in this project (for more info click [here](https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/)).
 
 ```bash
-$ sudo apt install python3-pip
+sudo apt install python3-pip
 ```
 Then, you have to install on Ubuntu:
 
