@@ -1,6 +1,6 @@
 # MQTT_DoS_attack
 
-This is the final project for Data and System Security course at [University of Pisa](https://didattica.di.unipi.it/).
+This is the final project for Data and System Security course at [University of Pisa](https://cysec.unipi.it/).
 
 This project uses the [Eclipse Paho MQTT Python client library](https://pypi.org/project/paho-mqtt/), which implements versions 5.0, 3.1.1, and 3.1 of the MQTT protocol. This library provides a client class which enable applications to connect to an MQTT broker to publish messages, and to subscribe to topics and receive published messages. It supports Python 2.7.9+ or 3.5+.
 
